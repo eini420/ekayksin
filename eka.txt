@@ -1,3 +1,5 @@
 rivi yksi ensimmäisellä kertaa
 rivi kaksi ensimmäisellä kertaa
 rivi kolme ensimmäisellä kertaa
+rivi 4 lisäys
+rivi 5 lisäys
